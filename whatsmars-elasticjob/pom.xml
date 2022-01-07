@@ -14,7 +14,7 @@
     <properties>
         <elastic-job.version>2.1.5</elastic-job.version>
         <curator.version>2.10.0</curator.version>
-        <h2.version>1.4.184</h2.version>
+        <h2.version>2.0.206</h2.version>
         <start-class>org.hongxi.whatsmars.job.Application</start-class>
     </properties>
 
