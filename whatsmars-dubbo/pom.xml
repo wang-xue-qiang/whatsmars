@@ -31,7 +31,7 @@
 
     <properties>
         <dubbo.version>2.6.2</dubbo.version>
-        <zookeeper.version>3.4.9</zookeeper.version>
+        <zookeeper.version>3.4.14</zookeeper.version>
         <fst.version>2.48-jdk-6</fst.version>
     </properties>
 
